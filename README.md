@@ -13,4 +13,5 @@ A simple image card with a gradient button positioned using viewport units (vw, 
 - `README.md`
 
 ### Screenshots
-Screenshots will be added here.
+
+![Project Screenshot](screenshots/04.png)
