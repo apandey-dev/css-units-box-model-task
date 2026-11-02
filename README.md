@@ -51,6 +51,6 @@ To demonstrate precision layout design using CSS Viewport Units (`vw`, `vh`) and
 - Faithfully reproduces the proportions and gradient layout shown in `04.png`.
 
 ## 9. Deployment Information
-- **GitHub Repository:** Private repository `css-units-box-model-task`
+- **GitHub Repository:** [css-units-box-model-task](https://github.com/apandey-dev/css-units-box-model-task) (Private)
 - **Deployment Platform:** Vercel
 - **Live URL:** To be updated after deployment
